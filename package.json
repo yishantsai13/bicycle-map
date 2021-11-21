@@ -2,6 +2,7 @@
   "name": "bicycle-map",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/yishantsai13/bicycle-map",
   "dependencies": {
     "@craco/craco": "^6.4.0",
     "@testing-library/jest-dom": "^5.15.0",
@@ -16,7 +17,8 @@
   "scripts": {
     "start": "craco start",
     "build": "craco build",
-    "test": "craco test"
+    "test": "craco test",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
