@@ -2,7 +2,7 @@
   "name": "bicycle-map",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/yishantsai13/bicycle-map",
+  "homepage": "https://yishantsai13.github.io/bicycle-map",
   "dependencies": {
     "@craco/craco": "^6.4.0",
     "@testing-library/jest-dom": "^5.15.0",
