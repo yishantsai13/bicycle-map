@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/yishantsai13/bicycle-map/static/css/main.fa7ade71.chunk.css",
+    "main.js": "/yishantsai13/bicycle-map/static/js/main.8fb45273.chunk.js",
+    "main.js.map": "/yishantsai13/bicycle-map/static/js/main.8fb45273.chunk.js.map",
+    "runtime-main.js": "/yishantsai13/bicycle-map/static/js/runtime-main.6751906a.js",
+    "runtime-main.js.map": "/yishantsai13/bicycle-map/static/js/runtime-main.6751906a.js.map",
+    "static/js/2.62d61c47.chunk.js": "/yishantsai13/bicycle-map/static/js/2.62d61c47.chunk.js",
+    "static/js/2.62d61c47.chunk.js.map": "/yishantsai13/bicycle-map/static/js/2.62d61c47.chunk.js.map",
+    "static/js/3.ef6f3486.chunk.js": "/yishantsai13/bicycle-map/static/js/3.ef6f3486.chunk.js",
+    "static/js/3.ef6f3486.chunk.js.map": "/yishantsai13/bicycle-map/static/js/3.ef6f3486.chunk.js.map",
+    "index.html": "/yishantsai13/bicycle-map/index.html",
+    "static/css/main.fa7ade71.chunk.css.map": "/yishantsai13/bicycle-map/static/css/main.fa7ade71.chunk.css.map",
+    "static/js/2.62d61c47.chunk.js.LICENSE.txt": "/yishantsai13/bicycle-map/static/js/2.62d61c47.chunk.js.LICENSE.txt",
+    "static/media/bicycle_logo.564e54a2.svg": "/yishantsai13/bicycle-map/static/media/bicycle_logo.564e54a2.svg",
+    "static/media/down.bc302be1.svg": "/yishantsai13/bicycle-map/static/media/down.bc302be1.svg",
+    "static/media/map.697ad994.svg": "/yishantsai13/bicycle-map/static/media/map.697ad994.svg",
+    "static/media/table.811e8d4c.svg": "/yishantsai13/bicycle-map/static/media/table.811e8d4c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6751906a.js",
+    "static/js/2.62d61c47.chunk.js",
+    "static/css/main.fa7ade71.chunk.css",
+    "static/js/main.8fb45273.chunk.js"
+  ]
+}
